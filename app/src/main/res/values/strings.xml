@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Graph</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="shapes">
+        <item>rectangle</item>
+        <item>circle</item>
+        <item>triangle</item>
+
+        <item>parallelogram</item>
+        <item>trapezoid</item>
+        <item>Square</item>
+        <item>Ellipse</item>
+        <item>Appointed</item>
+    </string-array>
+
+    <string-array name="opjects">
+        <item>spherical</item>
+        <item>cone</item>
+        <item>cylinder</item>
+        <item>prism</item>
+        <item>Cuboid</item>
+        <item>cube</item>
+        <item>pyramid</item>
+    </string-array>
+</resources>
