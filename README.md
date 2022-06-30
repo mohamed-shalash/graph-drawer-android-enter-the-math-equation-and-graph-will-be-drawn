@@ -2,10 +2,20 @@
 
 * this app is for math and equation things
 
-!()[graphpics/Screenshot_2022-06-30-10-16-13-67_8bf30f638771835cb4742436f1ec2678.jpg]
+![](graphpics/Screenshot_2022-06-30-10-16-13-67_8bf30f638771835cb4742436f1ec2678.jpg)
 
 * you can enter equation and it will be drawn for you
 
-!()[graphpics/Screenshot_2022-06-30-10-16-30-97_8bf30f638771835cb4742436f1ec2678.jpg]
+![](graphpics/Screenshot_2022-06-30-10-16-30-97_8bf30f638771835cb4742436f1ec2678.jpg)
 
 ![](graphpics/Screenshot_2022-06-30-10-16-54-29_8bf30f638771835cb4742436f1ec2678.jpg)
+
+![](graphpics/Screenshot_2022-06-30-10-17-11-35_8bf30f638771835cb4742436f1ec2678.jpg)
+
+
+* you can also calculate areas
+
+![](graphpics/Screenshot_2022-06-30-10-17-59-48_8bf30f638771835cb4742436f1ec2678.jpg)
+
+
+![](graphpics/Screenshot_2022-06-30-10-18-27-46_8bf30f638771835cb4742436f1ec2678.jpg)
